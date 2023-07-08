@@ -1,8 +1,11 @@
 #include <iostream>
 using namespace std;
 
+ // ◾️ Program 3 ⇢ Find the Sum of N Natural Numbers ◾️
+
 int main()
-{
+{ 
+    system("clear");
     int n;
     cout << " Entere A Number  : ";
     cin >> n;
@@ -12,5 +15,5 @@ int main()
         sum = sum + i;
     }
 
-    cout << "Sum of N Natural Numbers is : " <<sum;
+    cout << "Sum of N Natural Numbers is : " <<sum ;
 }
