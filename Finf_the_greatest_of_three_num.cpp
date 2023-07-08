@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-    //    find the Greatest of three numbers
+ // ◾️ Program 6 ⇢   Find the Greatest of the Three Numbers ◾️  
 
 int main()
 {
