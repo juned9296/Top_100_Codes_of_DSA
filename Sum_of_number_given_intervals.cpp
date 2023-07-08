@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-//    The sum of Natural Numbers from Given Interval
+ // ◾️ Program 4 ⇢ The sum of Natural Numbers from Given Interval ◾️
+   
 int main()
 {
     system("clear");
