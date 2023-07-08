@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+    // ◾️ Program 2 ⇢ check whether a number is positive or negative ◾️
 int main()
 {
     int num;
