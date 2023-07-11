@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
- // ◾️ Program 13 ⇢ Find the Armstrong Numbers of 3 Digit Number  ◾️
+ // ◾️ Program 13 ⇢ Find the Armstrong Numbers from 1 to 999    ◾️
 
 int main()
 {
