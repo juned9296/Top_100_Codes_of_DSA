@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-      
+
+// ◾️ ⇢ Program 9 ⇢ Print Prime numbers in a given range ⇠ ◾️
+
 int isPrime(int n)
 {
     for (int i = 2; i * i <= n; i++)
