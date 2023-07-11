@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// C++ Program to check whether a number is palindrome or not
+ // ◾️ Program 12 ⇢ Program to check whether a number is palindrome or not  ◾️ 
 
 int main()
 
