@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//  ◾️ Program 18  ⇢ Find The Factorial of Given Number  ⇠ ◾️
+//  ◾️ Program 18  ⇢ Find The Power of Given Number  ⇠ ◾️
 
 int main()
 {
