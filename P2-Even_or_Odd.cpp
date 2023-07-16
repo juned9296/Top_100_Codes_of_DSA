@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
- // ◾️ Program 1 ⇢ Check Whether a Number is Even or Odd ◾️
+ // ◾️ Program 2 ⇢ Check Whether a Number is Even or Odd ◾️
 
 int main()
 {
