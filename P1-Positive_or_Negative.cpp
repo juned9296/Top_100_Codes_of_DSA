@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-    // ◾️ Program 2 ⇢ check whether a number is positive or negative ◾️
+    // ◾️ Program 1 ⇢ check whether a number is positive or negative ◾️
 
 int main()
 {
