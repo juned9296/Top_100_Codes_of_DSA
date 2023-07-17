@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//  ★ Program 19  ⇢ Find The Prime Factors of Given Number  ⇠ ★
+//  ★ Program 20  ⇢ Find The Prime Factors of Given Number  ⇠ ★
 
 void primeFactors(int n)
 {
