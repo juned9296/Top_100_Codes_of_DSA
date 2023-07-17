@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//  ◾️ Program 16  ⇢ Fibonacci Series upto Given Number  ⇠ ◾️
+//  ◾️ Program 15  ⇢ Fibonacci Series upto Given Number  ⇠ ◾️
 
 int main()
 {
