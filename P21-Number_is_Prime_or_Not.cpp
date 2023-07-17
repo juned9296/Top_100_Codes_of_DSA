@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-  // ◾️ Program 8 ⇢ Find the Prime Number Program  ◾️
+  // ◾️ Program 21 ⇢ Find the Prime Number Program  ◾️
 
 int main()
 {
