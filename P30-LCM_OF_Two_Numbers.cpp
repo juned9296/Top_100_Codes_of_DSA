@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//  ★ Program 28  ⇢ Find The LCM Of Two Number  ⇠ ★
+//  ★ Program 30 ⇢ Find The LCM Of Two Number  ⇠ ★
 
 
 int main()
